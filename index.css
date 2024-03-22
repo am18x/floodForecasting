@@ -1,0 +1,10 @@
+body{
+    background-color: #fff;
+}
+.container-fluid a, .navbar-nav a, button{
+    background-color: #ABD07E;
+}
+
+.container-fluid a:hover, .navbar-nav a:hover, button:hover{
+    background-color: #7eb739;
+}
